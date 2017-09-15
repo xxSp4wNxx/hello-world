@@ -1,3 +1,3 @@
 # hello-world
 Well Hello there :)
-I have no idea what I´m doing.
+So this is the first edit of this file. I guess it´s cool.
